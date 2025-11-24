@@ -151,7 +151,8 @@ Please refer to `docs/documentation.md`
 Screenshots demonstrating the system in action are located in `docs/screenshots/`:
 ![](C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (11).png)
 ![](images/"C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (12).png")
-![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (13).png")
+![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (13).png")<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ecd5304c-dba7-464b-8398-fdb273ca90a9" />
+
 - Main menu interface
 - Student addition workflow
 - Attendance report generation
