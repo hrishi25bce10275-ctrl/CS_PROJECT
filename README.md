@@ -148,10 +148,9 @@ Please refer to `docs/documentation.md`
 
 ## Screenshots
 
-Screenshots demonstrating the system in action are located in `docs/screenshots/`:
-![](C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (11).png)
-![](images/"C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (12).png")
-![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (13).png")<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ecd5304c-dba7-464b-8398-fdb273ca90a9" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/941abeaa-74d8-4d5e-ab99-70c2373dcebc" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/8ea90f42-e7d4-4a01-a230-96e72de34af2" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/37805baa-5820-43e2-8653-245165103e6a" />
 
 - Main menu interface
 - Student addition workflow
@@ -161,8 +160,8 @@ Screenshots demonstrating the system in action are located in `docs/screenshots/
 ## Testing & Validation
 
 The system has been tested for:
-![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (14).png")
-![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (15).png")
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/54a2fbab-1513-4def-ace5-bf901ff14e70" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/fe124e25-5672-4764-8d98-f4fdf22354ef" />
 - Correct student addition and retrieval
 - Accurate attendance marking and percentage calculation
 - Proper defaulter identification (< 75% attendance)
