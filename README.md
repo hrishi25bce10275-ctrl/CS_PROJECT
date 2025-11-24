@@ -150,6 +150,8 @@ Please refer to `docs/documentation.md`
 
 Screenshots demonstrating the system in action are located in `docs/screenshots/`:
 ![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (11).png")
+![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (12).png")
+![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (13).png")
 - Main menu interface
 - Student addition workflow
 - Attendance report generation
@@ -158,6 +160,8 @@ Screenshots demonstrating the system in action are located in `docs/screenshots/
 ## Testing & Validation
 
 The system has been tested for:
+![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (14).png")
+![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (15).png")
 - Correct student addition and retrieval
 - Accurate attendance marking and percentage calculation
 - Proper defaulter identification (< 75% attendance)
