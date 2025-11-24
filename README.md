@@ -149,7 +149,7 @@ Please refer to `docs/documentation.md`
 ## Screenshots
 
 Screenshots demonstrating the system in action are located in `docs/screenshots/`:
-![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (11).png")
+![](C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (11).png)
 ![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (12).png")
 ![]("C:\Users\hrish\OneDrive\Desktop\CS_PROJECT\Screenshot (13).png")
 - Main menu interface
